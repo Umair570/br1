@@ -8,5 +8,3 @@ class Cars:
 
 car1=Cars("Red",2021)    
 print(car1.car())    
-car2=Cars("Black",2024)        
-print(car2.car())
